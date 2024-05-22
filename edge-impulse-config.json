@@ -1,0 +1,13 @@
+{
+    "host": "edgeimpulse.com",
+    "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE0MzcwNywicGVybWlzc2lvbnMiOltdLCJpYXQiOjE3MTMzNzYzODQsImV4cCI6MTcxNTk2ODM4NH0.EUUm0qsU80L0PMS7_AjGhIRoZYTFO3NGBOP5cdqKlxk",
+    "lastVersionCheck": 1713934056580,
+    "dataForwarderDevices": {},
+    "daemonDevices": {},
+    "runner": {
+        "storagePath": "/home/pi/.ei-linux-runner/storage"
+    },
+    "linuxProjectId": 375771,
+    "audio": "hw:0,0",
+    "camera": "/base/soc/i2c0mux/i2c@1/ov5647@36"
+}
